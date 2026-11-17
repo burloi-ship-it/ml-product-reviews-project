@@ -183,13 +183,4 @@ Type `exit` at any prompt to quit.
 
 ---
 
-## 👤 Author
-
-**Burloi**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/burloi-ship-it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-profile>)
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
