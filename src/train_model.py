@@ -50,6 +50,8 @@ pipeline = Pipeline([
 # train the model on entire dataset
 pipeline.fit(x, y)
 
+os.makedirs('model', exist_ok=True)
+
 # save the model to a file
 joblib.dump(pipeline, 'model/trained_model.pkl')
 
